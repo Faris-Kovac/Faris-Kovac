@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faris Kovač</h1>
-<h3 align="center">A passionate frontend developer from Bosnia and Herzegovina</h3>
+<h3 align="center">A passionate Data developer from Bosnia and Herzegovina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faris-kovac&label=Profile%20views&color=0e75b6&style=flat" alt="faris-kovac" /> </p>
 
-- 🔭 I’m currently working on **eCommerce Webiste**
+- 🔭 I’m currently working on **Oracle Database**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **fariskovac7@gmail.com**
 
